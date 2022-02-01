@@ -1,10 +1,11 @@
 # eisenUtils
 > This repo is for java util modules
 
----
-### Intallation
-#### Gradle
-```
+
+## Intallation
+
+### Gradle
+``` groovy
 allprojects {
   repositories {  
     ...
@@ -20,8 +21,8 @@ dependencies {
 }
 ```
 
-#### Maven
-```
+### Maven
+``` xml
 <repositories>
   <repository>
     <id>jitpack.io</id>
@@ -36,4 +37,4 @@ dependencies {
 </dependency>
 ```
 ### Preview
-img
+[img](eisenUtils.gif)
