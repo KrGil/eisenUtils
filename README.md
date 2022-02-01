@@ -37,4 +37,4 @@ dependencies {
 </dependency>
 ```
 ## Preview
-[!img](eisenUtils.gif)
+![img](eisenUtils.gif)
