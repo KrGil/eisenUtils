@@ -2,7 +2,7 @@
 > This repo is for java util modules
 
 
-## Intallation
+## Installation
 
 ### Gradle
 ``` groovy
