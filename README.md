@@ -38,3 +38,6 @@ dependencies {
 ```
 ## Preview
 ![img](eisenUtils.gif)
+
+## Deploy
+jitpack
