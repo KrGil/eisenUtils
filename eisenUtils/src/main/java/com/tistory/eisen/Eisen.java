@@ -17,7 +17,7 @@ public class Eisen {
 //        ((test123)Class.forName("com.tistory.eisen.test123").newInstance()).test();  // 인스턴스화 방법.
     }
 
-    public static void printArray(int[] arr) throws ClassNotFoundException, InstantiationException, IllegalAccessException {
+    public static void printArray(int[] arr) {
         System.out.println(Arrays.toString(arr));
     }
 
