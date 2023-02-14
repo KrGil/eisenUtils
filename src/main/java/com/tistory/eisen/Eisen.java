@@ -59,8 +59,6 @@ public class Eisen {
         }
     }
 
-
-
     /**
      * @Name: java 9 부터 구현된 takeWile 기능
      * @Desc:

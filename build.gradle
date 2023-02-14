@@ -12,19 +12,15 @@ repositories {
     maven {
         url = uri('https://repo.maven.apache.org/maven2/')
     }
-
 }
 
 dependencies {
     api 'javax.validation:validation-api:2.0.1.Final'
     testImplementation 'org.junit.jupiter:junit-jupiter:5.8.1'
-    // https://mvnrepository.com/artifact/org.apache.bval/bval-jsr
-    implementation group: 'org.apache.bval', name: 'bval-jsr', version: '2.0.6'
-
 }
 
 group = 'com.tistory.eisen'
-version = '1.01'
+version = '1.0.1'
 description = 'eisenUtils'
 java.sourceCompatibility = JavaVersion.VERSION_1_8
 
@@ -35,6 +31,7 @@ publishing {
         }
     }
 }
+
 test {
     useJUnitPlatform()
 }
