@@ -9,8 +9,5 @@
         <module name="eisenUtils" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="eisenUtils" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
