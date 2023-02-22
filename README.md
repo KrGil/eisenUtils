@@ -15,7 +15,7 @@ allprojects {
 dependencies {
   dependencies {
     ...
-    implementation 'com.github.KrGil:eisenUtils:master-SNAPSHOT'
+    implementation 'com.github.KrGil:eisenUtils:1.0.0'
   }
 
 }
