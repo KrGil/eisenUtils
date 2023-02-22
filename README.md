@@ -15,7 +15,7 @@ allprojects {
 dependencies {
   dependencies {
     ...
-    implementation 'com.github.KrGil:eisenUtils:1.0.0'
+    implementation 'com.github.KrGil:eisenUtils:1.0.1'
   }
 
 }
